@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/70b9d724-95fa-412f-ac5f-df561627ad3f.svg)](https://wakatime.com/@70b9d724-95fa-412f-ac5f-df561627ad3f)
+
 ### Dev on
 ![macOS](https://img.shields.io/badge/-macOS-black?style=for-the-badge&logo=Apple)
 ![ArchLinux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
