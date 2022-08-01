@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+### Dev on
+![macOS](https://img.shields.io/badge/-macOS-black?style=for-the-badge&logo=Apple)
+![ArchLinux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+
+
 <a href="https://github.com/goverclock">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=goverclock&show_icons=true&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goverclock&layout=compact" />
