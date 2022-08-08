@@ -1,8 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
 [![wakatime](https://wakatime.com/badge/user/70b9d724-95fa-412f-ac5f-df561627ad3f.svg)](https://wakatime.com/@70b9d724-95fa-412f-ac5f-df561627ad3f)
 
-### Dev on
+## Dev on
 
 <a href="https://github.com/goverclock">
   <img height="20em" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white" />
