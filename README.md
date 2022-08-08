@@ -5,8 +5,8 @@
 ### Dev on
 
 <a href="https://github.com/goverclock">
-  <img height="20em" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img height="20em" src="https://img.shields.io/badge/-macOS-black?style=for-the-badge&logo=Apple" />
+  <img height="20em" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white" />
+  <img height="20em" src="https://img.shields.io/badge/macOS-black?style=flat&logo=Apple" />
 </a>
 <br></br>
 <a href="https://github.com/goverclock">
