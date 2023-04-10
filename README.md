@@ -1,4 +1,4 @@
-## Hi there 👋
+## Timer
 
 [![wakatime](https://wakatime.com/badge/user/70b9d724-95fa-412f-ac5f-df561627ad3f.svg)](https://wakatime.com/@70b9d724-95fa-412f-ac5f-df561627ad3f) Since Aug 1 2022
 
