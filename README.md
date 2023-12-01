@@ -1,13 +1,15 @@
-## Time spent coding
+## Time Spent Coding
 
 [![wakatime](https://wakatime.com/badge/user/70b9d724-95fa-412f-ac5f-df561627ad3f.svg)](https://wakatime.com/@70b9d724-95fa-412f-ac5f-df561627ad3f) Since Aug 1 2022
 
+## Competitive Programming(not a pro lol)
+
+[![Codeforces Rating of @Gaomez](https://cfrating.baoshuo.dev/rating?username=Gaomez&style=flat)](https://codeforces/profile/Gaomez) [![AtCoder Rating of @goverclock](https://atrating.baoshuo.dev/rating?username=goverclock&style=flat)](https://atcoder.jp/users/goverclock)
+
 ## Develop on
 
-<a href="https://github.com/goverclock">
-  <img height="20em" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white" />
-  <img height="20em" src="https://img.shields.io/badge/macOS-black?style=flat&logo=Apple" />
-</a>
+![ArchLinux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white) ![MacOS](https://img.shields.io/badge/macOS-black?style=flat&logo=Apple)
+
 
 <!--
 <br></br>
