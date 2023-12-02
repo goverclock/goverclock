@@ -2,7 +2,9 @@
 
 [![wakatime](https://wakatime.com/badge/user/70b9d724-95fa-412f-ac5f-df561627ad3f.svg)](https://wakatime.com/@70b9d724-95fa-412f-ac5f-df561627ad3f) Since Aug 1 2022
 
+<!--
 <img style="width: 50%; height: 50%;" src="https://wakatime.com/share/@70b9d724-95fa-412f-ac5f-df561627ad3f/a3607916-1e43-4a31-aca8-b0550c3cad8a.png" />
+-->
 
 ## Competitive Programming(not a pro lol)
 
