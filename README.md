@@ -8,7 +8,7 @@
 
 ## Competitive Programming(not a pro lol)
 
-[![Codeforces Rating of @Gaomez](https://cfrating.baoshuo.dev/rating?username=Gaomez&style=flat)](https://codeforces/profile/Gaomez) [![AtCoder Rating of @goverclock](https://atrating.baoshuo.dev/rating?username=goverclock&style=flat)](https://atcoder.jp/users/goverclock) [![LeetCode user goverclock](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Rating&query=ratingQuantile&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fgoverclock%2Fcn%2F&logo=leetcode&logoColor=yellow)](https://leetcode.cn/goverclock/)
+[![Codeforces Rating of @Gaomez](https://cfrating.baoshuo.dev/rating?username=Gaomez&style=flat)](https://codeforces/profile/Gaomez) [![AtCoder Rating of @goverclock](https://atrating.baoshuo.dev/rating?username=goverclock&style=flat)](https://atcoder.jp/users/goverclock) [![LeetCode user goverclock](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Rating&query=ratingQuantile&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fgoverclock%2Fcn%2F&logo=leetcode&logoColor=yellow)](https://leetcode.cn/goverclock/)
 
 ## Develop on
 
