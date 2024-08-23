@@ -14,6 +14,11 @@
 
 ![ArchLinux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white) ![MacOS](https://img.shields.io/badge/macOS-black?style=flat&logo=Apple)
 
+## Working on
+
+[geowartry](https://github.com/goverclock/geowartry) - my silly RTS game
+
+[MIT 6.S081](https://github.com/goverclock/xv6-labs-2023) - public OS course
 
 <!--
 <br></br>
