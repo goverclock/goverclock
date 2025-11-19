@@ -9,7 +9,7 @@
 ## Competitive Programming(not a pro lol)
 
 [![Codeforces Rating of @Gaomez](https://cfrating.baoshuo.dev/rating?username=Gaomez&style=flat)](https://codeforces.com/profile/Gaomez) [![AtCoder Rating of @goverclock](https://atrating.baoshuo.dev/rating?username=goverclock&style=flat)](https://atcoder.jp/users/goverclock) [![LeetCode user goverclock](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Rating&query=ratingQuantile&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fgoverclock%2Fcn%2F&logo=leetcode&logoColor=yellow)](https://leetcode.cn/goverclock/)
-
+<!--
 ## Develop on
 
 ![ArchLinux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white) ![MacOS](https://img.shields.io/badge/macOS-black?style=flat&logo=Apple)
@@ -19,7 +19,7 @@
 [geowartry](https://github.com/goverclock/geowartry) - my silly RTS game
 
 [MIT 6.S081](https://github.com/goverclock/xv6-labs-2023) - public OS course
-
+-->
 <!--
 <br></br>
 <a href="https://github.com/goverclock">
